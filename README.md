@@ -54,4 +54,4 @@ The following criteria will be assessed for overall quality:
 
 ▪ Metrics from GitHub. Also used to assess individual contribution
 
-▪ Code quality including comments
+▪ Code quality including comments.
